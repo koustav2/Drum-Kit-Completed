@@ -89,11 +89,3 @@ footer {
   background-color: white;
 }
 
-@media(min-width:425px){
-  .panel{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    margin-top: 100px;
-  }
-}
